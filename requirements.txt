@@ -1,7 +1,7 @@
-fastapi uvicorn
-fastapi sqlalchemy uvicorn
-fastapi sqlalchemy pydantic
-fastapi uvicorn sqlalchemy databases pydantic
+fastapi
+uvicorn
+sqlalchemy
+pydantic
 
 
 
