@@ -1,0 +1,7 @@
+pip install fastapi uvicorn
+pip install fastapi sqlalchemy uvicorn
+pip install fastapi sqlalchemy pydantic
+pip install fastapi uvicorn sqlalchemy databases pydantic
+pip install "sqlalchemy>=2.0"
+
+
